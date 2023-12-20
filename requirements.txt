@@ -1,0 +1,17 @@
+tensorflow
+pandas
+dvc
+notebook
+numpy
+matplotlib
+seaborn
+python-box == 6.0.2
+pyYAML # to read yaml files in python
+tqdm # for generation of progress bar of the process
+ensure == 1.0.2
+joblib
+types-pyYAML
+scipy
+Flask
+Flask-Cors
+-e . # to execute setup.py file

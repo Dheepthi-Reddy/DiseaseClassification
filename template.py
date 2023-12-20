@@ -18,18 +18,19 @@ list_of_files = [
     f"src/{project_name}/__init__.py ",
 
     # creating a components folder and specifying the constructor
-    f"src{project_name}/components/__init__.py",
-    f"src{project_name}/config/__init_.py",
-    f"src{project_name}/config/configuration.py",
-    f"src{project_name}/pipeline/__init_.py",
-    f"src{project_name}/entity/__init_.py",
-    f"src{project_name}/constants/__init_.py",
+    f"src/{project_name}/components/__init__.py",
+    f"src/{project_name}/config/__init_.py",
+    f"src/{project_name}/config/configuration.py",
+    f"src/{project_name}/pipeline/__init_.py",
+    f"src/{project_name}/entity/__init_.py",
+    f"src/{project_name}/constants/__init_.py",
     "config/config.yaml",
     "dvc.yaml",
     "params.yaml",
     "requirements.txt",
     "setup.py",
-    "research/trails.ipynb"
+    "research/trails.ipynb",
+    "template/index.html" # to create templates
 
 ]
 
